@@ -13,3 +13,5 @@
     In the framework of transactions, this is a plugin that synchronizes a client redux state from a common server one.
   </td>
 </table>
+
+UNDER CONSTRUCTION !
